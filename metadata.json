@@ -1,0 +1,7 @@
+{
+  "name": "Anggota Gasmi Sidodadi",
+  "description": "Sistem database anggota terpusat untuk organisasi Gasmi Sidodadi dengan fitur administrasi lengkap.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
